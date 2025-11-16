@@ -4,3 +4,5 @@ isi api key openrouter dengan login akun
 `npm install node-fetch`
 ## run
 `node deepseek.js`
+
+### nodejs v22
