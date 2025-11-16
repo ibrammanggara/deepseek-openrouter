@@ -1,4 +1,4 @@
-isi api key openrouter dengan login akun
+isi api key openrouter dengan login akun https://openrouter.ai/
 
 ##  Install dependency:
 `npm install node-fetch`
